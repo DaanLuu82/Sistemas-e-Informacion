@@ -1,6 +1,6 @@
 # 🧑‍💼 Sistema de Gestión de Recursos Humanos
 
-Este es un sistema diseñado para facilitar la gestión de empleados, asistencia, licencias, contratos, reportes, seguridad y capacitación dentro de una organización. El proyecto ha sido desarrollado aplicando la **metodología ágil Crystal**, adaptada para equipos pequeños y proyectos de tamaño mediano.
+Este es un sistema diseñado para facilitar la gestión de empleados, asistencia, licencias, contratos, reportes, seguridad y capacitación dentro de una organización.. El proyecto ha sido desarrollado aplicando la **metodología ágil Crystal**, adaptada para equipos pequeños y proyectos de tamaño mediano.
 
 ---
 
